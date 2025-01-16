@@ -5,6 +5,8 @@ format:
     toc: true
     toc-depth: 1
     toc-title: "Years"
+resources: 
+  - "*.pdf"
 ---
 
 # 2025
@@ -17,12 +19,12 @@ format:
 - **Marc Vandemeulebroecke (UCB Farchim SA)**  
   *Confirmatory testing of secondary hypotheses on combined data from multiple trials – case studies and reflections*
   
-  [Abstract](abstracts/20250121_Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
+  [Abstract](20250121_Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
 
 ### 15. Jänner
 - **Michael Kammer (Medical University Vienna)**  
   *An Overview of R Software Tools to Support the Generation of Synthetic Data from Real-World Data*  
-  [Abstract](abstracts/20250115_Michael_Kammer.pdf)
+  [Abstract](20250115_Michael_Kammer.pdf)
 
 ---
 
