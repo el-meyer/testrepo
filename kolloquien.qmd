@@ -1,0 +1,1060 @@
+---
+title: "Kolloquien"
+format: 
+  html:
+    toc: true
+    toc-depth: 1
+    toc-title: "Years"
+---
+
+# 2025
+
+### 21. Jänner
+**Two online talks via Webex**  
+
+- **Dong Xi (Gilead Sciences)**  
+  *When convention meets practicality: Combined Analysis Testing under the Two-Trials Convention*  
+- **Marc Vandemeulebroecke (UCB Farchim SA)**  
+  *Confirmatory testing of secondary hypotheses on combined data from multiple trials – case studies and reflections*
+  
+  [Abstract](20250121_Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
+
+### 15. Jänner
+- **Michael Kammer (Medical University Vienna)**  
+  *An Overview of R Software Tools to Support the Generation of Synthetic Data from Real-World Data*  
+  [Abstract](static/abstracts/20250115_Michael_Kammer.pdf)
+
+---
+
+# 2024
+
+### 20. November
+- **Frank Bretz (Novartis Pharma AG, Basel, Switzerland)**  
+  *Estimands: The new bedrock of drug development?*
+
+### 6. November
+- **Michaela Maria Freitag (Institut für Biometrie und klinische Epidemiologie, Charité - Universitätsmedizin Berlin)**  
+  *Increased Efficiency of frequentist basket trials through adaptive clustering methods*
+
+### 21. October
+- **Ricciardo De Bin (Department of Mathematics, University of Oslo, Norway)**  
+  *Boosting First-Hitting-Time Models for Time-To-Event Analysis*
+
+### 10. Juni
+- **Kelly Van Lacker (Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Niederlande)**  
+  *Optimizing Randomized Trial Efficiency: Innovative Approaches to Covariate Adjustment*
+
+### 15. Mai
+- **David Robertson (MRC Biostatistics Unit, University of Cambridge, UK)**  
+  *Response-Adaptive Randomization in Clinical Trials: From Myths to Practical Considerations*
+
+### 17. April
+- **Daniele Giardiello (University of Milan-Bicocca, Italy)**  
+  *Prediction of Contralateral Breast Cancer - Statistical Aspects and Performance Assessment*
+
+### 21. Februar
+- **Quynh Nguyen (Paul Ehrlich Institut, Germany)**  
+  *The Use of Complex Clinical Trials - A Regulatory Review*
+
+
+---
+
+# 2023
+
+### 6. December
+- **Alexander Bauer (Takeda, Austria)**  
+  *Assessment of Pharmacokinetic Linearity after Repeated Drug Administration*
+
+### 20. October
+- **Stephen Senn (University of Sheffield, UK)**  
+  *Randomisation versus Random Sampling. Clinical Trials and the Prepresentation Fallacy*
+
+### 4. October
+- **Mariana Nold (University of Jena, Germany)**  
+  *On the improvement of predictive modeling using posterior predictive checking and Bayesian stackting - An example of modeling gender inequality in reading unsing Pisa 2018*
+
+### 17. May
+- **Nadja Klein (TU Dortmund, Germany)**  
+  *Advances in Distributional Regression*
+
+### 10. May
+- **David Azriel (Faculty of Data and Decision Sciences, the Technion, Haifa, Israel)**  
+  *Optimal Minimax Random Designs for Weighted Least Squares Estimators*
+
+### 22. March
+- **Irantzu Barrio (University of the Basque Country, Spain)**  
+  *A new general and multivariable approach to categorize predictor variables. Application in COPD patients*
+
+### 15. Februar
+- **Gregor Buch (Johannes Gutenberg University Mainz, Germany)**  
+  *Overview, Evaluation, and development of group variable selection methoda for knowledge integration*
+
+
+---
+
+# 2022
+
+### 3. November
+- **Bhramar Mukherjee (University of Michigan)**  
+  *Using electronic health records for scientific research: Promises and perils*
+
+### 12. Oktober
+- **Theresa Ullmann (Ludwig Maximilian University of Munich)**  
+  *Over-optimism in the evaluation of clustering results and novel cluster algorithms*
+
+### 5. Oktober
+- **Lukas Baumann (University Hospital Heidelberg)**  
+  *Basket trial designs based on power priors*
+
+### 26. Juli
+- **Aliaksander Hubin (University of Oslo)**  
+  *Variational Bayes for inference on model and parameter uncertainty in Bayesian neural networks*
+
+### 22. Juni
+- **Frank Bretz (Novartis Pharma AG)**  
+  *Symmetric graphs for equally weighted tests, with application to the Hochberg procedure*
+
+### 8. Juni
+- **Leonhard Held (University of Zurich)**  
+  *A statistical framework for replicability*
+
+### 11. Mai
+- **Damjan Manevski (University of Ljubljana)**  
+  *Life years difference compared to the general population*
+
+### 27. April
+- **Wencan Zhu (Université Paris-Saclay and Sanofi R&D)**  
+  *Biomarker identification with penalized regression in the presence of high-dimensional data*
+
+
+---
+
+# 2021
+
+### 15. Dezember
+- **Helmut Schuetz (BEBAC Vienna)**  
+  *Bioequivalence: An old area with some uncharted territories*
+
+### 17. November
+- **Lorena Hafermann (Charité – Universitätsmedizin Berlin)**  
+  *Statistical model building: Background 'knowledge' based on inapropriate preselection causes misspecification*
+
+### 13. Oktober
+- **Willi Sauerbrei und Edwin Kipruto (University of Freiburg)**  
+  *Multivariable regression moedlling - issues in selection of variables and functional forms of continuous variables*
+
+### 9. Juni
+- **Kim M. Lee (King`s College)**  
+  *Platform Trials: The potentials and the caveats of adding arms*
+
+### 12. Mai
+- **Gaurav Sharma (Takeda)**  
+  *Statistical approaches in an adaptive clinical trial for methamphetamine use disorder*
+
+### 14. April
+- **Giovanni Smania (Pharmetheus AB)**  
+  *Conditional distribution modeling as an alternative method for covariates simulation: Comparison with joint mulitvariate normal and bootstrap techniques*
+
+### 10. März
+- **Matthew Sperrin (The University of Manchester)**  
+  *When is causal thinking needed for prediction?*
+
+
+---
+
+# 2020
+
+### 9. Dezember
+- **Kaspar Rufibach (F. Hoffmann - La Roche)**  
+  *Use of multistate models to improve decision-making in cinical trials*
+
+### 11. November
+- **Anne-Laure Boulesteix (Ludwig-Maximilians-Universität München)**  
+  *Neutral comparison studies: Illustration through a benchmark study on omics based prognostic modelling and discussion*
+
+### 28. Oktober
+- **Alejandra Avalos Pacheco (Harvard Medical School)**  
+  *Leveraging external data in Bayesian adaptive platform designs*
+
+### 14. Oktober
+- **Martin Wolfsegger (Baxalta Innovations GmbH, a Takeda company)**  
+  *Some possibly useful thoughts on bioequivalence assessments in the case of sparse sampling*
+
+### 30. September
+- **Marta Bofill Roig (Universitat Politècnica de Catalunya)**  
+  *A class of two-sample binary and survival satistics with application to immunotherapy trial*
+
+### 1. Juli
+- **Annette Kopp-Schneider (German Cancer Research Center (DKFZ))**  
+  *The effect of prior information of frequentist properties of Bayesian phase II single-arm clinical trials*
+
+### 13. Mai
+- **Robin Ristl (Medical University of Vienna)**  
+  *Delayed treatment effects, treatment switching and heterogeneous patient pooulations: How to design and analyse RCTs in oncology*
+
+### 19. Februar
+- **Aris Perperoglou (AstraZeneca)**  
+  *A (rough) guide to using splines in multivariable regression*
+
+### 17. Februar
+- **Yosef Rinott (The Hebrew University of Jerusalem)**  
+  *Joint variables selection for several regressions*
+
+
+---
+
+# 2019
+
+### 11. Dezember
+- **David Garcia (Medical University of Vienna)**  
+  *Understanding human behavior in the digital society: The case of collective emotions*
+
+### 23. Oktober
+- **Willi Sauerbrei (University of Freiburg)**  
+  *Complete, transparent and unbiased reporting as a requisite to improve research in the health sciences*
+
+### 18. Oktober
+- **Satoshi Morita (Kyoto University)**  
+  *Bayesian Population Finding with Biomarkers in a Randomized Clinical Trial*
+
+### 25. September
+- **Kim Luijken (Leiden University Medical Centre)**  
+  *Measurement matters: How differences in measurement induce nontransportability of clinical prediction models*
+
+### 9. Juli
+- **Menggang Yu (University of Wisconsin-Madison)**  
+  *Cox regression with nonignorable survival-time-dependent missing covariate values*  
+- **Jun Shoa (University of Wisconsin-Madison)**  
+  *Robust tests in survival analysis under covariate-adaptive randomization*
+
+### 27. Juni
+- **Hiba Nassar (Lund University)**  
+  *Empirically driven orthonormal bases for functional data analysis*  
+- **Kory Johnson (George Mason University)**  
+  *Adaptive, Distribution-Free Prediction Intervals for Deep Neural Networks*
+
+### 19. Juni
+- **William F. Rosenberger (Universität Wien)**  
+  *Randomization-Based Inference Following Randomized Clinical Trials*
+
+### 17. Juni
+- **Munya Dimairo (University of Sheffield)**  
+  *Introducing the Adaptive designs CONSORT Extension (ACE) Statement to improve reporting of randomised trials that use an adaptive design*
+
+### 22. Mai
+- **Marco Colombo (University of Edinburgh)**  
+  *Discovering biomarkers of progression of renal disase in type 1 diabetes*
+
+### 21. Mai
+- **Sebastian Doehler (Hochschule Darmstadt)**  
+  *Controlling the false discovery rate for discrete test stastics: Some results and computational tools*
+
+### 13. Mai
+- **Cyrus R. Mehta (Cytel Inc.)**  
+  *Adaptive Multi-arm Multi-stage Group Sequential Designs*
+
+### 26. März
+- **Tom Parke (Berry Consultants)**  
+  *Platform Trials: Impossibly complex or the future of clinical trials? (SLIDES)*
+
+### 14. Jänner
+- **Malgorzata Bogdan (University of Wroclaw)**  
+  *On the selection of genetic biomarkers for clinical trials*
+
+
+---
+
+# 2018
+
+### 11. Dezember
+- **Barbara Osimani (Polytechnic University of the Marche via Tronto)**  
+  *E-Synthesis: A System for evidence amalgamation in pharmacovigilance*
+
+### 6. Dezember
+- **Marianne Huebner (Michigan State University)**  
+  *A systematic approach to initial data analysis*
+
+### 3. Dezember
+- **Rino Bellocco (University of Milano-Bicocca and Karolinska Institutet)**  
+  *Directed Acyclic Graphs: A Useful Modern Tool in Epidemiology (SLIDES)*
+
+### 8. Oktober
+- **Jack Bowden (University of Bristol)**  
+  *Recent Advances in Two-Sample Summary Data Mendelian Randomization (SLIDES)*
+
+### 5. Juli
+- **Arsenio Nhacolo (University of Bremen)**  
+  *Bias and Precision in Early Phase Adaptive Studies and its Consequences for the Decisions About Conducting and Designing Confirmatory Studies*
+
+### 18. Juni
+- **Peter Filzmoser (CSTAT, TU Wien)**  
+  *Robust Linear and Logistic Regression in High Dimension (SLIDES)*
+
+### 14. Mai
+- **Peter Steiner (University of Wisconsin)**  
+  *The Mechanics of Omitted Variable Bias: Bias Amplification and Cancellation of Offsetting Biases*
+
+### 8. Mai
+- **Dominic Edelmann (DKFZ, Heidelberg)**  
+  *The Distance Correlation-Coefficient for Right-censored Survival Data*
+
+### 19. April
+- **Peter Klimek (Meduni Wien)**  
+  *A Network Medicine Approach to Understand and Predict Complex Disease Phenotypes*
+
+### 18. April
+- **Alexander Ploner (Karolinska Institutet, Stockholm)**  
+  *Register Research in the Molecular Age: Studies on Cervical Carcinoma in Sweden*
+
+### 16. April
+- **Els Genbrugge (EORTC, Brüssel)**  
+  *Bayesian Adaptive Randomization*
+
+### 09. April
+- **Werner Müller (Universität Linz)**  
+  *A Design Criterion for Symmetric Model Discrimination Based on Nominal Confidence Sets (SLIDES)*
+
+### 22. März
+- **Daria Kim (Max-Planck Institut, München)**  
+  *Access to Clinical Trial Data: Is the Paradigm Shifting?*
+
+### 19. März
+- **Georg Langs (Meduni Wien)**  
+  *Identifying and Using Structure in Large-sclae Routine Medical Imaging Data*
+
+### 15. März
+- **Yuxi Tian (University of California)**  
+  *Comparative Safety and Effectiveness of Osteoporosis Drugs: A Multi-Center Observational Cohort Study Conducted Through the OHDSI Network*
+
+### 12. März
+- **Hans-Peter Piepho (Gastprof. BOKU)**  
+  *Arm-based Network Meta-analysis (SLIDES)*
+
+### 22. Februar
+- **Gerhard Svolba (SAS Österreich)**  
+  *Vortrag1 - Data Science in Action – 10 Dinge, die Advanced Analytics in Data Science für Ihr Unternehmen tun kann (SLIDES)*  
+  *Vortrag 2 – Aktuelle Anforderungen an eine analytische Plattform - Offenheit bzgl. der Benutzerschnittstellen und methodische Vielfalt (SLIDES)*  
+
+
+---
+
+# 2017
+
+### 30. November
+- **Valentin Rousson (University Hospital Lausanne)**  
+  *An Introduction to Mendelian Randomization (SLIDES)*
+
+### 16. November
+- **Matthias Brückner (Lancaster University)**  
+  *Instrumental Variable Estimation in Semi-parametric Additive Hazard Models*
+
+### 16. Oktober
+- **Aliaksandr Hubin (University of Oslo)**  
+  *Deep Non-linear Regression Models in a Bayesian Framework*
+
+### 28. September
+- **Andrew Vickers (Memorial Sloan-Kettering Cancer Center)**  
+  *How Do we Know Whether a Predictive Model is of Clinical Value? How Do we Know Whether a Molecular Marker is Worth Measuring? A Discussion of Some Simple Decision Analytical Methods*
+
+### 7. September
+- **Chris Jennison (University of Bath)**  
+  *Data Combination in Seamless Phase II/III Clinical Trial Designs (SLIDES)*
+
+### 22. Mai
+- **Sarah Zohar (INSERM, Paris)**  
+  *Bayesian Treatment Comparison Using Parametric Mixture Priors Computed from Elicited Histograms*
+
+### 20. April
+- **Marius Thomas (Novartis)**  
+  *Exploratory Subgroup Analyses in Clinical Trials*
+
+### 20. März
+- **R.A. Bailey (University of St. Andrews)**  
+  *Hasse Diagrams as an Aid to Understanding a Family of Models in Experiments on Biodiversity*
+
+### 13. März
+- **Rok Blagus (University of Ljubljana)**  
+  *Cumulative Sum Processes for Goodness-of-Fit Testing*
+
+### 21. Februar
+- **Ioannis Kosmidis (University College London)**  
+  *Reduced‐Bias Inference for Regression Models with Tractable and Intractable Likelihoods*
+
+### 20. Februar
+- **Mathias Schmid (Rheinische Friedrich‐Wilhelms‐Universität Bonn)**  
+  *Modeling Discrete Time-to-Event Data*
+
+### 14. Februar
+- **Thomas Jaki (Lancaster University)**  
+  *Multi-Objective Dose-Finding*
+
+### 26. Jänner
+- **Karel G.M. Moons, Geert-Jan Geersing (UMC Utrecht)**  
+  *Clinical Prediction Models: Don't Develop Them!  
+  Managing Venous Thrombosis in Primary Care Medicine (SLIDES_Moons) (SLIDES_Geersing)*
+
+### 17. Jänner
+- **Efstathia Bura (Washington DC)**  
+  *Sufficient Reductions in Regression and Classification (SLIDES)*
+
+### 12. Jänner
+- **Helene Jacqmin-Gadda (INSERM, France)**  
+  *Target Estimands in a Longitudinal Study with Follow-up Truncated by Death and Dropout*
+
+### 9. Jänner
+- **Ludwig A. Hothorn (Leibniz Universität Hannover)**  
+  *Ein universeller Trendtest? Welche Kriterien sollte ein universeller Trendtest erfüllen? (SLIDES)*
+
+
+---
+
+# 2016
+
+### 16. Dezember
+- **Stefan Michiels (Université Paris-Saclay)**  
+  *Calculating Expected Survival from High-Dimensional Cox Models with Treatment-by-Marker Interactions in Randomized Clinical Trials*
+
+### 18. November
+- **Tim Friede (University Medical Center Göttingen)**  
+  *Some Statistical Aspects of Clinical Trials for Personalized Medicine*
+
+### 14. November
+- **Silke Jörgens (ICON, Köln)**  
+  *Confirmatory Adaptive Group Sequential Trials: Treatment Arm and Subpopulation Selection Based on Surrogate Endpoints (SLIDES)*
+
+### 10. Oktober
+- **Eva Schernhammer (Med. Universität Wien)**  
+  *Angewandte Epidemiologie in der Prävention von Chronischen Erkrankungen: die Nurses’ Health Studie*
+
+### 22. September
+- **Malgorzata Bogdan (University of Wroclaw)**  
+  *Identifying Genetic Factors Influencing Important Patient Characteristics*
+
+### 1. August
+- **Mariana Nold (Universitätsklinikum Jena)**  
+  *A Comparison of Two Approaches for Meta-Analysis of Individual Patient Data*
+
+### 19. Juli
+- **Livio Finos (University of Padua)**  
+  *A Graphical Approach to Resampling Based Multiple Testing Procedures*
+
+### 20. Mai
+- **Lisa Hampson (Lancaster University)**  
+  *Optimal Group Sequential Tests for Delayed Responses with Non-Binding Futilitiy Boundaries*  
+- **Ekkehard Glimm (Novartis)**  
+  *Some Updates on Weighted Parametric Tests*
+
+### 19. Mai
+- **Daniel Commenges (University of Bordeaux)**  
+  *The Stochastic System Approach to Causality*
+
+### 14. April  
+- **WBS Festsymposium**  
+  *25 Jahre Klinische Biometrie*
+
+### 4. April
+- **Tyler VanderWeele (Havard School of Public Health)**  
+  *Workshop with Tyler VanderWeele: Lecture "A unification of mediation and interaction: a four-way decomposition" and Q&A session*
+
+### 21. März
+- **Aliaksandr Hubin (University of Oslo)**  
+  *Variable selection in logistic regression with a latent Gaussian field models with an application in epigenomics*
+
+### 18. März
+- **Geert Verbeke and Geert Molenberghs (KU Leuven, Hasselt University)**  
+  *Diagnostics for mixed models: two approaches*
+
+### 26. Jänner
+- **Nils Ternés (Université Paris-Sud, Université Paris-Saclay)**  
+  *Identification of biomarker-by-treatment interactions in randomized clinical trials with survival outcomes and high-dimensional spaces*
+
+### 18. Jänner
+- **Ulrike Schneider (TU Wien)**  
+  *Statistical Inference after Lasso Estimation*
+
+### 13. Jänner
+- **Andreas Futschik (Johannes Kepler Universität Linz)**  
+  *On the inadmissibility of common population genetic estimates and their improvement by using shrinkage*
+
+
+---
+
+# 2015
+
+### 12. November
+- **Ludwig Hothorn (Leibniz University Hannover, Germany)**  
+  *Simultaneous inference using multiple marginal models in R (MMM)*
+
+### 17. September
+- **Florian Klinglmüller (University of Padua, Department of Statistics)**  
+  *Permutation Tests for Adaptive Clinical Trial Designs*  
+
+### 9. Juni
+- **Xavier Paoletti (Biostatistics and epidemiology / INSERM U1018)**  
+  *Dose finding on repeated measurements in oncology phase I clinical trials*  
+
+### 4. Mai
+- **Arne Bathke (Universität Salzburg)**  
+  *Trying to Make Sense of Multivariate Data Samples Using Different Inferential Methods*
+
+### 27. April
+- **Søren Möller (University of Southern Denmark, Odense)**  
+  *Methods for calculating heritability of diseases estimated from large twin studies*
+
+### 17. März
+- **Toshifumi Sugitani (Medical University of Vienna)**  
+  *Flexible alpha allocation strategies for confirmatory adaptive enrichment clinical trials with a pre-specified subgroup*
+
+
+---
+
+# 2014
+
+### 17. November, 15:30 (s.t.)
+- **Ludwig Hothorn**  
+  *Quality ranking or ... comparisons against the grand mean* (DOWNLOAD SLIDES)
+
+### 29. Oktober, 16:30 (s.t.)
+- **Bernhard Klingenberg**  
+  *A new and improved confidence interval for the Mantel-Haenszel risk differences*
+
+### 6. Oktober, 16:30 (s.t.)
+- **Geraldine Rauch**  
+  *Challenges of Composite Endpoints - New methods to overcome planning, analysis and interpretation problems*
+
+### 18. Juni, 11:00 (s.t.)
+- **Alex Dmitrienko**  
+  *Mixture-based multiple testing procedures: The good, the bad and the ugly*
+
+### 28. April, 10:00 (s.t.)
+- **Holger Dette**  
+  *Optimal design for dose finding studies with an active control* (DOWNLOAD SLIDES)
+
+### 25. März, 16:00 (s.t.)
+- **Zoran Antonijevic**  
+  *Optimizing Clinical Outcomes Using Simulations In Modern Drug Development* (DOWNLOAD SLIDES)
+
+### 12. Februar, 14:00 (s.t.)
+- **Tanja Stamm**  
+  *PatientInnenperspektive und Biomarker - wie hängen diese zusammen?*
+
+
+---
+
+# 2013
+
+### 16. Dezember, 16:30 (s.t.)
+- **Karl Schlag**  
+  *Exact Nonparametric Binary Choice and Ordinal Regression Analysis*
+
+### 5. Dezember, 16:30 (s.t.)
+- **Alexandra Posekany**  
+  *Improving robustness and reliability of bioinformatical inference*
+
+### 3. Dezember, 14:00 (s.t.)
+- **Frank Konietschke**  
+  *Nonparametric multiple comparison procedures under heteroscedasticity (DOWNLOAD SLIDES)*
+
+### 23. Oktober, 15:00 (s.t.)
+- **Open Access to Clinical Trial Data**  
+  *Opportunities, challenges and risks of sharing clinical trial data on patient level (Panel Discussion, joint event with MUW and Pharmig)* (DOWNLOAD SLIDES)
+
+### 21. Oktober, 16:15 (s.t.)
+- **Ludwig Hothorn**  
+  *User-defined contrasts within multiple contrast tests - case studies (DOWNLOAD SLIDES)*
+
+### 26. September, 16:15 (s.t.)
+- **Gregory Nuel**  
+  *Simulation of phenotypes under H1 in Genome Wide Association studies and applications*
+
+### 17. Juni, 16:30 (s.t.)
+- **Gernot Wassmer**  
+  *Enrichment Designs: Methoden und Anwendungen - Adaptive Verfahren zur Selektion von Studienpopulationen (DOWNLOAD SLIDES)*
+
+### 6. Juni, 16:00 (s.t.)
+- **Dominic Magirr**  
+  *Flexible Sequential Designs for Multi-Arm Clinical Trials (DOWNLOAD SLIDES)*
+
+### 13. Mai, 16:30 (s.t.)
+- **Gerhard Hommel**  
+  *Multiple test procedures using ordered p-values (DOWNLOAD SLIDES)*
+
+### 8. Mai, 16:30 (s.t.)
+- **Caroline Uhler**  
+  *Chromosome Packing in Cell Nucleus (DOWNLOAD SLIDES)*
+
+### 30. Jänner, 14:30 (s.t.)
+- **Andreas Ziegler**  
+  *Personalized Medicine using DNA Biomarkers (DOWNLOAD SLIDES)*
+
+### 24. Jänner, 16:30 (s.t.)
+- **Frank Miller**  
+  *Sample size Re-estimation and Bias (DOWNLOAD SLIDES)*
+
+### 21. Jänner, 11:00 (s.t.)
+- **Cécile Proust-Lima**  
+  *Joint modelling of multivariate longitudinal mixed outcomes and a time-to-event: a latent variable approach (DOWNLOAD SLIDES)*
+
+### 17. Jänner, 11:00 (s.t.)
+- **David Azriel**  
+  *Adaptive designs to maximize power in clinical trials with multiple treatments (DOWNLOAD SLIDES)*
+
+
+---
+
+# 2012
+
+### 10. Dezember, 13:00 (s.t.)
+- **Ronald Geskus**  
+  *Inverse probability weighted estimators in a competing risks setting: analyses can be performed with standard software*
+
+### 9. November 2012, 10:30 (s.t.)
+- **Milan Stehlík**  
+  *Cancer risk assessment: Fractals versus Stochastics*
+
+### 12. Juli 2012, 10:00 (s.t.)
+- **Malgorzata Bogdan**  
+  *Logic Regression for Localizing Interacting Quantitative Trait Loci*
+
+### 21. Mai 2012, 14:00 (s.t.)
+- **Janez Stare**  
+  *A Measure of Explained Variation for Event History Data*
+
+### 10. Mai 2012, 13:30 (s.t.)
+- **Karen Leffondré**  
+  *Comparison of the illness-death model and standard survival models for interval-censored data: a simulation study and an application to dementia*
+
+### 12. April 2012, 16:00 (s.t.)
+- **Alan Hubbard**  
+  *Semiparametric Variable Importance Estimation: machine learning and causal inference for estimating the relative "importance” of many competing predictors*
+
+### 26. März 2012, 14:00 (s.t.)
+- **Manuela Zucknick**  
+  *Integration of multiple genomic data sources in Bayesian Regression Models for Prediction and Biomarker Selection*
+
+### 22. Februar 2012, 10:00 (s.t.)
+- **Jeannette Klimont, Barbara Leitner und Nadine Zielonke**  
+  *Gesundheitsstatistik*
+
+### 17. Jänner 2012, 11:00 (s.t.)
+- **Alain Hauser**  
+  *Causal inference from interventional data*
+
+
+---
+
+# 2011
+
+### 18. Oktober 2011, 16:00 (s.t.)
+- **Dominic Magir**  
+  *Design and Analysis of Multi‐Arm, Multi‐Stage Clinical Studies*
+
+### 18. Oktober 2011, 11:00 (s.t.)
+- **Dimitris Rizopoulos**  
+  *Joint Models for Longitudinal and Event Time Data, and Dynamic Predictions*
+
+### 7. Oktober 2011, 10:00 (s.t.)
+- **Markus Bauer**  
+  *Computational challenges in next-generation DNA sequencing*
+
+### 23. Mai 2011, 11:30 (s.t.)
+- **Willi Sauerbrei**  
+  *Towards stratified medicine – instead of dichotomization, estimate a treatment effect function for a continuous covariate*
+
+### 5. Mai 2011, 16:00 (s.t.)
+- **Martin Wolfsegger**  
+  *Assessing Systemic Drug Exposure in Repeated Dose Toxicity Studies in the Case of Complete and Incomplete Sampling*
+
+### 19. April 2011, 15:00 (s.t.)
+- **Frank Bretz**  
+  *Graphical approaches to multiple test procedures, On the efficiency of two-stage adaptive designs*
+
+### 31. März 2011, 15:00 (s.t.)
+- **Patrick Royston**  
+  *A new strategy for meta-analysis of continuous covariates in observational studies*
+
+### 18. Jänner 2011, 10:30 (s.t.)
+- **Jenö Reiczigel**  
+  *Exact or Approximate Approach to Prevalence Estimation from Imperfect Data?*
+
+
+---
+
+# 2010
+
+### 2. Dezember 2010, 14:00 (s.t.)
+- **Thomas Hielscher**  
+  *Cox PH penalized regression models in high-dimensional data: model fit, model assessment and sample size considerations*
+
+### 8. September 2010, 14:00 (s.t.)
+- **Terry Therneau**  
+  *Practical Mixed-Effects Survival Models*
+
+### 29. Juni 2010, 10:30 (s.t.)
+- **Michal Abrahamowicz**  
+  *Flexible joint modelling of cumulative and non-linear effects of time-varying risk factors on the hazard*
+
+### 22. Juni 2010, 10:30 (s.t.)
+- **Bernhard Klingenberg**  
+  *Simultaneous confidence bounds in multiple comparisons to control (Foto)*
+
+### 21. Juni 2010, 13:00 (s.t.)
+- **Helmut Finner**  
+  *On the false discovery rate and control of expected number of false rejections*
+
+### 7. Juni 2010, 14:00 (s.t.)
+- **Linda Beale**  
+  *The UK Small Area Health Statistics Unit: approaches to spatial epidemiology*
+
+### 28. Mai 2010, 14:00 (s.t.)
+- **Catherine Legrand**  
+  *Generalized conditional linear models with time varying coefficients under right censoring: practical implementation and extensions (Foto)*
+
+### 11. Mai 2010, 11:00 (s.t.)
+- **Sven Ove Samuelsen**  
+  *Case-cohort and Nested case-control studies: differences and similarities (Foto)*
+
+### 14. April 2010, 10:45 (s.t.)
+- **Herwig Friedl**  
+  *Schätzung von Dunkelziffern mit Applikationen im Bereich der Kriminologie und der Epidemiologie*
+
+
+---
+
+# 2009
+
+### 12. November 2009, 15:00 (s.t.)
+- **Florian Frommlet**  
+  *Asymptotic optimality of multiple testing and model selection procedures under sparsity*
+
+### 8. Oktober 2009, 11:00 (s.t.)
+- **Amel Mahboubi**  
+  *Validation of a new flexible method for modelling of the effects of continuous prognostic factors in relative survival*
+
+### 31. August 2009, 16:00 (s.t.)
+- **Chihiro Hirotsu**  
+  *Row-wise multiple comparison approach to the analysis of two-way interaction with particular interest in the ordered rows and/or columns*
+
+### 22. Juni 2009, 11:00 (s.t.)
+- **Leonhard Held**  
+  *INLA in action: Bayesian inference without tears?*
+
+### 25. Mai 2009, 14:00 (s.t.)
+- **Helga Wagner**  
+  *Stochastic model specification search for state space and dynamic survival models*
+
+### 20. Mai 2009, 16:00 (s.t.)
+- **Alex Dmitrienko**  
+  *Multi-stage gatekeeping procedures with clinical trials applications*
+
+### 18. Mai 2009, 16:00 (s.t.)
+- **William Rosenberger**  
+  *Inference for Randomized Clinical Trials*
+
+### 19. März 2009, 15:00 (s.t.)
+- **Dankmar Böhning**  
+  *Meta-Analysis of Diagnostic Studies by Means of (S)ROC-Modelling – a Profile-likelihood Approach based on the Lehmann-family*
+
+
+---
+
+# 2008
+
+### 20. Oktober 2008, 16:00 (s.t.)
+- **Zachary Skrivanek**  
+  *A Seamless 2/3 Design Incorporating a Clinical Utility Index*
+
+### 15. Mai 2008, 15:30
+- **Achim Zeileis**  
+  *A Lego System for Conditional Inference*
+
+### 14. April 2008, 16:00
+- **Andreas Futschik**  
+  *Statistical Methods for Quantitative Trait Localization Based on Genome Data*
+
+### 28. Jänner 2008, 15:30
+- **Frank Bretz**  
+  *Ordered Multiple Comparisons with the Best and Their Applications to Dose–Response Studies*
+
+### 17. Jänner 2008, 15:00
+- **Karl Moder**  
+  *A new approach to evaluate interaction in block design*
+
+### 11. Jänner 2008, 15:00 (s.t.)
+- **Lara Lusa**  
+  *Filtering Enhanced Feature Selection: A Multiple Testing Strategy for the Identification of Differentially Expressed Features in High-Dimensional Data Sets*
+
+
+---
+
+# 2007
+
+### 6. Dezember 2007, 15:00
+- **Bernhard Spangl**  
+  *Estimating Spectral Density Functions Robustly*
+
+### 7. November 2007, 15:30 (s.t.)
+- **Willi Maurer**  
+  *Sources of Multiplicty in Adaptive Designs*
+
+### 18. Oktober 2007, 15:00
+- **Rob Verdooren**  
+  *Der Wilcoxon-Zweistichproben-Test für gruppierte Daten und ein Nicht-Standard-SPSS-Programm*
+
+### 11. Oktober 2007, 16:00
+- **Bernhard Klingenberg**  
+  *Testing dose-response with multivariate ordinal data*
+
+### 16. Mai 2007, 14:00
+- **Marc Vandemeulebroecke**  
+  *A general approach to two-stage tests*
+
+### 20. März 2007, 16:00
+- **Gerhard Svolba**  
+  *Data Preparation for Analytics*
+
+### 13. Februar 2007, 16:00
+- **Fátima Sánchez-Cabo**  
+  *Statistical aspects and medical applications of “-omics” data integration*
+
+### 23. Jänner 2007, 15:00
+- **Nigel Stallard and Tim Friede**  
+  1. *A group-sequential method for clinical trials with treatment selection (Nigel Stallard)*  
+  2. *Blinded sample size reestimation in non-inferiority trials with binary endpoints (Tim Friede)*
+
+### 18. Jänner 2007, 16:00
+- **Dieter Rasch**  
+  *Wie viele Individuen benötigt man zur Schätzung populationsgenetischer Parameter?*
+
+### 16. Jänner 2007, 16:00
+- **Dieter Rasch**  
+  *Inwieweit sind statistische Verfahren anwendbar wenn Voraussetzungen zu deren Herleitung verletzt sind?*
+
+
+---
+
+# 2006
+
+### 16. November 2006, 13:30
+- **Maja Pohar**  
+  *Regression in Relative Survival using R*
+
+### 20. Oktober 2006, 14:00
+- **David Kreil**  
+  *RNA expression profiling with microarrays - Interplay of experiments and analysis*
+
+### 13. Juni 2006, 15:30
+- **Thomas Lang**  
+  *Arzneimittelzulassung in der EU - Regulatorische Rahmenbedingungen und Möglichkeiten der Mitwirkung von nationalen Experten in Beratungs- und Zulassungsverfahren*
+
+### 27. März 2006, 14:00
+- **Gernot Wassmer**  
+  *On Estimation in Adaptive Survival Trials*
+
+### 13. März 2006, 14:00
+- **Frank Bretz**  
+  *Combining Multiple Comparisons and Modeling Techniques in Dose Response Studies*
+
+### 6. März 2006, 17:30
+- **Siegfried Hörmann**  
+  *Modellierung und Prognose der Feinstaubkonzentration in Graz*
+
+### 23. Februar 2006, 14:00
+- **Stefan Michiels**  
+  *Issues in the prediction of cancer outcome with microarrays*
+
+### 16. Januar 2006, 11:30
+- **Arndt Peter von Haeseler**  
+  *Stochastic Models of Sequence Evolution*
+
+
+---
+
+# 2005
+
+### 10. November 2005, 13:30
+- **Daniele De Martini**  
+  *Estimating Sample Size and Reproducibility for Nonparametric Statistical Tests*
+
+### 27. Oktober 2005, 15:00
+- **Franz König**  
+  *Zwischenergebnisse, Flexibilität und Ineffizienz*
+
+### 29. Juli 2005, 11:00
+- **Carina Ittrich**  
+  *Penalized Maximum Likelihood Regression*
+
+### 16. Juni 2005, 16:15
+- **Gregor Laaha**  
+  *Regionalisierung von Niederwasserkennwerten für Einzugsgebiete österreichischer Fließgewässer*
+
+### 9. Juni 2005, 14:00
+- **Yasemin Genç**  
+  *Closed Form Methods to Compare Two Proportions for Clustered Data*
+
+### 3. Mai 2005, 16:00
+- **Margit Ehrenmüller und Johannes Dobretsberger**  
+  *Analysieren und planen von med. Studien mit SAS Enterprise Guide und SAS/STAT Power and Sample Size Application. Ein praxisorientierter Überblick mit Demonstrationen*
+
+### 27. April 2005, 16:15
+- **Bernhard Spangl**  
+  *On Robust Spectral Density Estimation with Applications to the Analysis of Heart Rate Variability cities*
+
+### 28. Februar 2005, 10:30
+- **Daniel Rabczenko**  
+  *Estimation of short-term effect of air pollution on mortality based on distributed lag models and dose-response analysis - Results from four Polish cities*
+
+
+---
+
+# 2004
+
+### 15. Dezember 2004, 16:15
+- **Richard Petritsch**  
+  *Anwendung und Validierung des Klimainterpolationsmodells DAYMET in Österreich*
+
+### 11. November 2004, 15:00
+- **Malinee Laopaiboon**  
+  *Meta-analyses involving cluster randomization trials: a review of published literature in health care*
+
+### 14. Oktober 2004, 16:00
+- **Friedrich Leisch**  
+  *R: Freie Software für Statistische Datenanalyse und Graphik*
+
+### 21. Juni 2004, 16:00
+- **William F. Rosenberger**  
+  *Maximizing Power and Minimizing Treatment Failures in Clinical Trials*
+
+### 26. Mai 2004, 16:30
+- **Bernhard Klingenberg**  
+  *PLS (Partial Least Squares) Regression und ihre Anwendungen*
+
+### 29. April 2004, 16:00
+- **K.-D. Wernecke**  
+  *A Mixed Model Approach to Discriminant Analysis with Longitudinal Data*
+
+### 24. Februar 2004, 17:35
+- **Margit Ehrenmüller**  
+  *SAS Enterprise Guide : Statistische Auswertungen für Nichtstatistiker in der Medizin*
+
+
+---
+
+# 2003
+
+### 6. Oktober 2003, 16:15
+- **Tze Leung Lai**  
+  *Power, sample size and adaptation considerations in the design of group sequential trials.*
+
+### 11. April 2003, 10:30
+- **John Nelder**  
+  *Extended likelihood inference applied to a new class of models.*
+
+### 1. April 2003, 16:30
+- **Kurt Hornik**  
+  *Neurale Netze und Biostatistik*
+
+### 23. Jänner 2003, 16:15
+- **Albrecht Neiß**  
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung.*
+
+### 20. Jänner 2003
+- **Anette Kopp-Schneider (Heidelberg)**  
+  *Stochastische Modelle für die Hepatokarzinogenese.*
+
+
+---
+
+# 2002
+
+### 11. Dezember 2002, 16:15
+- **Marcus Hudec (Wien)**  
+  *Datamining.*
+
+### 27. November 2002, 16:00
+- **Sharon Kühlmann (Göteborg)**  
+  *A matched case-control study in the forest: influence of trees on undestory vegetation.*
+
+### 27. September 2002, 10:30
+- **Albrecht Neiß (München)**  
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung*
+
+### 12. Juni 2002, 16:00
+- **Alexander Ploner**  
+  *Modellieren von Besucherzahlen mit Regressionsbäumen*
+
+### 22. Mai 2002, 16:00
+- **Werner G. Müller**  
+  *Residualdiagnostik für Variogrammschätzung*
+
+### 24. Jänner 2002, 16:00
+- **Patrick Royston**  
+  *Flexible parametric models for censored survival data, with application to prognostic modelling and estimation of treatment effects*
+
+### 16. Jänner 2002, 16:00
+- **Christine Mannhalter**  
+  *Durchführung und Einsatzgebiete von Gen-Chip Analysen (Microarrays)*
+
+### 11. Jänner 2002, 15:00
+- **David Firth**  
+  *Maximum likelihood estimates: bias, finiteness, shrinkage*
+
+
+---
+
+# 2001
+
+### 13. Juni 2001, 16:15
+- **Thomas Waldhör**  
+  *Aus der räumlichen Epidemiologie*
+
+### 31. Jänner 2001, 16:15
+- **Christine Mannhalter**  
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*
+
+
+---
+
+# 2000
+
+### 8. November 2000, 16:15
+- **Alessandra Nardi (University of Teramo and University of Vienna)**  
+  *On residuals analysis for survival data*
+
+### 11. Oktober 2000, 16:30
+- **Christine Mannhalter**  
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*
+
+### 6. März 2000, 16:00
+- **Werner Brannath**  
+  *Monotone Confidence Bounds in Adaptive Two Stage Combination Tests*
+
+### 25. Jänner 2000, 16:00
+- **Hubert Hasenauer**  
+  *Die simultanen Eigenschaften von Waldwachstumsmodellen*
+
+
+---
+
+# 1999
+
+### 13. Dezember 1999, 16:00
+- **Erika Graf**  
+  *Schätzung des Vorhersagefehlers in der Überlebenszeitanalyse*
+
+### 23. November 1999, 16:00
+- **Helmut Finner**  
+  *Stichprobenumfangsbestimmungen für Mehrentscheidungsverfahren: Probleme, Methoden und ein Softwarepaket*
+
+### 4. Mai 1999, 16:00
+- **John Whitehead**  
+  1. *Sequential designs for comparative clinical trials*  
+  2. *Sequential trials with more than two treatments or more than one endpoint*
+
+### 15. April 1999, 16:00
+- **Fulvio De Santis**  
+  *Recent Issues in Bayesian Model Selection*
+
+
+---
+
