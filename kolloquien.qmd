@@ -37,7 +37,7 @@ resources:
   *An Overview of R Software Tools to Support the Generation of Synthetic Data from Real-World Data*  
   [Abstract](abstracts/20250115_Kammer.pdf)
   
-  [Slides](abstracts/WBS_Kammer_20250108)
+  [Slides](abstracts/WBS_Kammer_20250108.pdf)
 
 # 2024
 
