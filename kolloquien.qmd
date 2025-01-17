@@ -11,6 +11,18 @@ resources:
 
 # 2025
 
+### 19. Februar
+- **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**
+  *Permutation-based Multiple Testing-Controlled Variable Selection Using Random Forests*
+
+  [Abstract](abstracts/20250219_WBS_Mueller_Buchner.pdf)
+
+### 12. Februar
+- **Manuel Müller (Statistical Laboratory, University of Cambridge)**
+  *Isotonic Subgroup Selection*
+  
+  [Abstract](abstracts/20250212_WBS_Mueller.pdf)
+
 ### 21. Jänner
 **Two online talks via Webex**  
 - **Dong Xi (Gilead Sciences)**  
@@ -24,7 +36,8 @@ resources:
 - **Michael Kammer (Medical University Vienna)**  
   *An Overview of R Software Tools to Support the Generation of Synthetic Data from Real-World Data*  
   [Abstract](abstracts/20250115_Kammer.pdf)
-
+  
+  [Slides](abstracts/WBS_Kammer_20250108)
 
 # 2024
 
@@ -299,6 +312,8 @@ resources:
 - **Tom Parke (Berry Consultants)**  
   *Platform Trials: Impossibly complex or the future of clinical trials?*  
   [Abstract](abstracts/20190326_Parke.pdf)
+  
+  [Slides](abstracts/20190326_Parke_Platform%20trials%20V2.pdf)
 
 ### 14. Jänner
 - **Malgorzata Bogdan (University of Wroclaw)**  
@@ -322,11 +337,15 @@ resources:
 - **Rino Bellocco (University of Milano-Bicocca and Karolinska Institutet)**  
   *Directed Acyclic Graphs: A Useful Modern Tool in Epidemiology (SLIDES)*  
   [Abstract](abstracts/20181203_Bellocco.pdf)
+  
+  [Slides](RinoBellocco2018.pdf)
 
 ### 8. Oktober
 - **Jack Bowden (University of Bristol)**  
   *Recent Advances in Two-Sample Summary Data Mendelian Randomization (SLIDES)*  
   [Abstract](abstracts/20181008_Bowden.pdf)
+  
+  [Slides](JackVienna2018.pdf)
 
 ### 5. Juli
 - **Arsenio Nhacolo (University of Bremen)**  
@@ -337,6 +356,8 @@ resources:
 - **Peter Filzmoser (CSTAT, TU Wien)**  
   *Robust Linear and Logistic Regression in High Dimension (SLIDES)*  
   [Abstract](abstracts/20180618_Filzmoser.pdf)
+  
+  [Slides](robust_enetreg.pdf)
 
 ### 14. Mai
 - **Peter Steiner (University of Wisconsin)**  
@@ -367,6 +388,8 @@ resources:
 - **Werner Müller (Universität Linz)**  
   *A Design Criterion for Symmetric Model Discrimination Based on Nominal Confidence Sets (SLIDES)*  
   [Abstract](abstracts/20180409_Mueller.pdf)
+  
+  [Slides](vienna_mueller.pdf)
 
 ### 22. März
 - **Daria Kim (Max-Planck Institut, München)**  
@@ -387,12 +410,18 @@ resources:
 - **Hans-Peter Piepho (Gastprof. BOKU)**  
   *Arm-based Network Meta-analysis (SLIDES)*  
   [Abstract](abstracts/20180312_Piepho.pdf)
+  
+  [Slides](Folien_Piepho_BOKU2018.pdf)
 
 ### 22. Februar
 - **Gerhard Svolba (SAS Österreich)**  
   *Vortrag1 - Data Science in Action – 10 Dinge, die Advanced Analytics in Data Science für Ihr Unternehmen tun kann (SLIDES)*  
   *Vortrag 2 – Aktuelle Anforderungen an eine analytische Plattform - Offenheit bzgl. der Benutzerschnittstellen und methodische Vielfalt (SLIDES)*  
   [Abstract](abstracts/20180222_Svolba.pdf)
+  
+  [Slides 1](SvolbaSAS_WBS2018_ApplyingDataScience.pdf)
+  
+  [Slides 2](Svolba_WBS2018_DifferentUserRoles_withSASViya.pdf)
 
 
 # 2017
@@ -401,6 +430,8 @@ resources:
 - **Valentin Rousson (University Hospital Lausanne)**  
   *An Introduction to Mendelian Randomization (SLIDES)*  
   [Abstract](abstracts/20171130_Rousson.pdf)
+  
+  [Slides](abstracts/20171130Rousson_talk.pdf)
 
 ### 16. November
 - **Matthias Brückner (Lancaster University)**  
@@ -421,6 +452,8 @@ resources:
 - **Chris Jennison (University of Bath)**  
   *Data Combination in Seamless Phase II/III Clinical Trial Designs (SLIDES)*  
   [Abstract](abstracts/20170907_JennisonHampson.pdf)
+  
+  [Slides](abstracts/vienna_2017.pdf)
 
 ### 22. Mai
 - **Sarah Zohar (INSERM, Paris)**  
@@ -462,11 +495,17 @@ resources:
   *Clinical Prediction Models: Don't Develop Them!  
   Managing Venous Thrombosis in Primary Care Medicine*  
   [Abstract](abstracts/20170126_MOONS_GEERSING.pdf)
+  
+  [Slides Moons](abstracts/Moons170126.pdf)
+  
+  [Slides Geersing](abstracts/Geersing170126.pdf)
 
 ### 17. Jänner
 - **Efstathia Bura (Washington DC)**  
   *Sufficient Reductions in Regression and Classification (SLIDES)*  
   [Abstract](abstracts/20170117_BURA.pdf)
+  
+  [Slides](abstracts/https://viennabiometrics.github.io/Bura_MUV2017.pdf)
 
 ### 12. Jänner
 - **Helene Jacqmin-Gadda (INSERM, France)**  
@@ -477,6 +516,8 @@ resources:
 - **Ludwig A. Hothorn (Leibniz Universität Hannover)**  
   *Ein universeller Trendtest? Welche Kriterien sollte ein universeller Trendtest erfüllen? (SLIDES)*  
   [Abstract](abstracts/20170109_LUDWIG_HOTHORN.pdf)
+  
+  [Slides](abstracts/Wien2017LH.pdf)
 
 
 # 2016
@@ -494,7 +535,9 @@ resources:
 ### 14. November
 - **Silke Jörgens (ICON, Köln)**  
   *Confirmatory Adaptive Group Sequential Trials: Treatment Arm and Subpopulation Selection Based on Surrogate Endpoints*  
-  [Abstract](abstracts/SurrogateSelection_SilkeJoergens_14Nov2016.pdf)
+  [Abstract](abstracts/WBS_Joergens.pdf)
+  
+  [Slides](abstracts/SurrogateSelection_SilkeJoergens_14Nov2016.pdf)
 
 ### 10. Oktober
 - **Eva Schernhammer (Med. Universität Wien)**  
@@ -549,8 +592,6 @@ resources:
   *On the inadmissibility of common population genetic estimates …*  
   [Abstract](abstracts/20160113_Futschik.pdf)
 
-*(No existing PDFs found for 21. März, 18. März, 26. Jänner 2016.)*
-
 
 # 2015
 
@@ -590,7 +631,9 @@ resources:
 ### 17. November, 15:30
 - **Ludwig Hothorn**  
   *Quality ranking or ... comparisons against the grand mean*  
-  [Abstract](abstracts/2014_11_Hothorn.pdf)
+  [Abstract](abstracts/20141117_Hothorn.pdf)
+  
+  [Slides](abstracts/2014_11_Hothorn.pdf)
 
 ### 29. Oktober, 16:30
 - **Bernhard Klingenberg**  
@@ -606,17 +649,19 @@ resources:
 - **Alex Dmitrienko**  
   *Mixture-based multiple testing procedures: The good, the bad and the ugly*
 
-*(No matching 201406** PDF in the list — link omitted.)*
-
 ### 28. April, 10:00
 - **Holger Dette**  
   *Optimal design for dose finding studies with an active control*  
-  [Abstract](abstracts/20140428_Dette_Slides.pdf)
+  [Abstract](abstracts/20140416_Dette.pdf)
+  
+  [Slides](abstracts/20140428_Dette_Slides.pdf)
 
 ### 25. März, 16:00
 - **Zoran Antonijevic**  
   *Optimizing Clinical Outcomes Using Simulations In Modern Drug Development*  
   [Abstract](abstracts/20140325_ANTONIJEVIC.pdf)
+  
+  [Slides](abstracts/2014_Program_Portfolio%20Optimization%20MUW%2025Mar2014.pdf)
 
 ### 12. Februar, 14:00
 - **Tanja Stamm**  
@@ -629,8 +674,7 @@ resources:
 ### 16. Dezember, 16:30
 - **Karl Schlag**  
   *Exact Nonparametric Binary Choice and Ordinal Regression Analysis*
-
-*(No matching 20131216_Schlag file in the list — link omitted.)*
+[Abstract](abstracts/20131216_Schlag.pdf)
 
 ### 5. Dezember, 16:30
 - **Alexandra Posekany**  
@@ -641,19 +685,17 @@ resources:
 - **Frank Konietschke**  
   *Nonparametric multiple comparison procedures under heteroscedasticity*  
   [Abstract](abstracts/20131203_Konietschke.pdf)
+  
+  [Slides](abstracts/201312_Konietschke_Slides.pdf)
 
 ### 23. Oktober, 15:00
 - **Open Access to Clinical Trial Data** (Panel Discussion)
-  
-*(No single matching “Open_Access…” PDF — omitted.)*
+[Slides](abstracts/2013_MUW_Pharmig_open_data_web.pdf)
 
 ### 21. Oktober, 16:15
 - **Ludwig Hothorn**  
   *User-defined contrasts within multiple contrast tests - case studies*  
-  [Abstract](abstracts/2013_WBS_Seminar_Hothorn.pdf)
-
-*(No exact “20131021_Hothorn” in the list, but there is `2013_WBS_Seminar_Hothorn.pdf`.  
-If that is not correct, please omit.)*
+  [Slides](abstracts/2013_HothornVienna_Slides.pdf)
 
 ### 26. September, 16:15
 - **Gregory Nuel**  
@@ -664,41 +706,57 @@ If that is not correct, please omit.)*
 - **Gernot Wassmer**  
   *Enrichment Designs: Methoden und Anwendungen …*  
   [Abstract](abstracts/20130617_Wassmer.pdf)
+  
+  [Slides](abstracts/20130617_Wassmer_Population%20Enrichment%20Designs_Slides.pdf)
 
 ### 6. Juni, 16:00
 - **Dominic Magirr**  
   *Flexible Sequential Designs for Multi-Arm Clinical Trials*  
   [Abstract](abstracts/20130606_Magirr.pdf)
+  
+  [Slides](abstracts/20130606_Magirr_slides.pdf)
 
 ### 13. Mai, 16:30
 - **Gerhard Hommel**  
   *Multiple test procedures using ordered p-values*  
   [Abstract](abstracts/20130513_Hommel.pdf)
+  
+  [Slides](abstracts/20130513_Hommel_Slides.pdf)
 
 ### 8. Mai, 16:30
 - **Caroline Uhler**  
   *Chromosome Packing in Cell Nucleus*  
   [Abstract](abstracts/20130508_Uhler.pdf)
+  
+  [Slides](abstracts/20130508_Uhler_Slides.pdf)
 
 ### 30. Jänner, 14:30
 - **Andreas Ziegler**  
   *Personalized Medicine using DNA Biomarkers*  
   [Abstract](abstracts/20130130_Ziegler.pdf)
+  
+  [Slides](abstracts/20130130_Ziegler_Slides.pdf)
 
 ### 24. Jänner, 16:30
 - **Frank Miller**  
   *Sample size Re-estimation and Bias*  
   [Abstract](abstracts/20130124_Miller.pdf)
+  
+  [Slides](abstracts/20130124_SSREandBias_FMiller20130124Wien_slides.pdf)
 
 ### 21. Jänner, 11:00
 - **Cécile Proust-Lima**  
   *Joint modelling of multivariate longitudinal mixed outcomes …*  
   [Abstract](abstracts/20130121_ProustLima.pdf)
+  
+  [Slides](abstracts/20130121_ProustLima_Vienna_Slides.pdf)
 
 ### 17. Jänner, 11:00
 - **David Azriel**  
   *Adaptive designs to maximize power in clinical trials with multiple treatments*  
   [Abstract](abstracts/20130117_Azriel.pdf)
+  
+  [Slides](abstracts/20130117_Azriel_slides.pdf)
 
 
 # 2012
@@ -706,8 +764,7 @@ If that is not correct, please omit.)*
 ### 10. Dezember, 13:00
 - **Ronald Geskus**  
   *Inverse probability weighted estimators in a competing risks setting…*
-
-*(No exact 20121210_Geskus file in the list. Found `20131210_Geskus.pdf`? That’s 2013, not 2012. Omit.)*
+  [Abstract](abstracts/20121210_Geskus.pdf)
 
 ### 9. November 2012
 - **Milan Stehlík**  
@@ -742,8 +799,8 @@ If that is not correct, please omit.)*
 ### 22. Februar 2012
 - **Jeannette Klimont, Barbara Leitner und Nadine Zielonke**  
   *Gesundheitsstatistik*
-
-*(No exact 20120222_Klimont… in the list — omitted.)*
+  
+  [Abstract](abstracts/20120222_Klimont.pdf)
 
 ### 17. Jänner 2012
 - **Alain Hauser**  
@@ -756,49 +813,49 @@ If that is not correct, please omit.)*
 ### 18. Oktober 2011, 16:00
 - **Dominic Magir**  
   *Design and Analysis of Multi‐Arm, Multi‐Stage Clinical Studies*
-
-*(No exact 20111018_Magir PDF in the list — omitted.)*
+  
+  [Abstract](abstracts/20111018_Magir.pdf)
 
 ### 18. Oktober 2011, 11:00
 - **Dimitris Rizopoulos**  
   *Joint Models for Longitudinal and Event Time Data, and Dynamic Predictions*  
+  
   [Abstract](abstracts/20111017_Rizopoulos.pdf)
 
 ### 7. Oktober 2011
 - **Markus Bauer**  
   *Computational challenges in next-generation DNA sequencing*
-
-*(No 20111007_Bauer in the list, but we do have `20111007_Bauer.pdf`? Actually item [83] is `20111007_Bauer.pdf`.  
-Yes, so:)*  
+  
   [Abstract](abstracts/20111007_Bauer.pdf)
 
 ### 23. Mai 2011
 - **Willi Sauerbrei**  
   *Towards stratified medicine – … estimate a treatment effect function for a continuous covariate*
-
-*(No 20110523_Sauerbrei in the list. There is `20110523_Sauerbrei.pdf`? Item [82]? Yes:)*  
+  
   [Abstract](abstracts/20110523_Sauerbrei.pdf)
 
 ### 5. Mai 2011
 - **Martin Wolfsegger**  
   *Assessing Systemic Drug Exposure …*
-
-*(No direct 20110505_Wolfsegger. But item [81] is `20110505_Wolfsegger.pdf`? Yes:)*  
+  
   [Abstract](abstracts/20110505_Wolfsegger.pdf)
 
 ### 19. April 2011
 - **Frank Bretz**  
   *Graphical approaches to multiple test procedures, On the efficiency of two-stage adaptive designs*  
+  
   [Abstract](abstracts/20110419_Bretz.pdf)
 
 ### 31. März 2011
 - **Patrick Royston**  
   *A new strategy for meta-analysis of continuous covariates …*  
+  
   [Abstract](abstracts/20110331_Royston.pdf)
 
 ### 18. Jänner 2011
 - **Jenö Reiczigel**  
   *Exact or Approximate Approach to Prevalence Estimation from Imperfect Data?*  
+  
   [Abstract](abstracts/20110118_Reiczigel.pdf)
 
 
@@ -807,8 +864,7 @@ Yes, so:)*
 ### 2. Dezember 2010
 - **Thomas Hielscher**  
   *Cox PH penalized regression models in high-dimensional data …*
-
-*(No 20101202_Hielscher. We do have `20101202_Hielscher.pdf`? Item [77] is `20101202_Hielscher.pdf`:)*  
+  
   [Abstract](abstracts/20101202_Hielscher.pdf)
 
 ### 8. September 2010
@@ -820,7 +876,6 @@ Yes, so:)*
 - **Michal Abrahamowicz**  
   *Flexible joint modelling of cumulative and non-linear effects …*
 
-*(No direct 20100629_Abrahamowicz? Actually item [75] is `20100629_Abrahamowicz.pdf`:)*  
   [Abstract](abstracts/20100629_Abrahamowicz.pdf)
 
 ### 22. Juni 2010
@@ -837,28 +892,24 @@ Yes, so:)*
 - **Linda Beale**  
   *The UK Small Area Health Statistics Unit: approaches to spatial epidemiology*
 
-*(No 20100607_Beale in the list. Found `20100607_Beale.pdf`? Item [72]? Yes:)*  
   [Abstract](abstracts/20100607_Beale.pdf)
 
 ### 28. Mai 2010
 - **Catherine Legrand**  
   *Generalized conditional linear models with time varying coefficients …*
 
-*(No 20100528_Legrand in the list? Actually item [71] is `20100528_Legrand.pdf`:)*  
   [Abstract](abstracts/20100528_Legrand.pdf)
 
 ### 11. Mai 2010
 - **Sven Ove Samuelsen**  
   *Case-cohort and Nested case-control studies: differences and similarities*
 
-*(No 20100511_Samuelsen in the list. Item [70] is `20100511_Samuelsen.pdf`:)*  
   [Abstract](abstracts/20100511_Samuelsen.pdf)
 
 ### 14. April 2010
 - **Herwig Friedl**  
   *Schätzung von Dunkelziffern …*
 
-*(No 20100414_Friedl in the list? Item [69] is `20100414_Friedl.pdf`:)*  
   [Abstract](abstracts/20100414_Friedl.pdf)
 
 
@@ -873,14 +924,12 @@ Yes, so:)*
 - **Amel Mahboubi**  
   *Validation of a new flexible method for modelling …*
 
-*(No direct 20091008_Mahboubi? Actually item [67] is `20091008_Mahboubi.pdf`:)*  
   [Abstract](abstracts/20091008_Mahboubi.pdf)
 
 ### 31. August 2009
 - **Chihiro Hirotsu**  
   *Row-wise multiple comparison approach …*
 
-*(No direct 20090831_Hirotsu? We do have [66] `20090831_Hirotsu.pdf`:)*  
   [Abstract](abstracts/20090831_Hirotsu.pdf)
 
 ### 22. Juni 2009
@@ -892,7 +941,6 @@ Yes, so:)*
 - **Helga Wagner**  
   *Stochastic model specification search for state space and dynamic survival models*
 
-*(No 20090525_Wagner? Actually item [64] is `20090525_Wagner.pdf`:)*  
   [Abstract](abstracts/20090525_Wagner.pdf)
 
 ### 20. Mai 2009
@@ -910,8 +958,6 @@ Yes, so:)*
   *Meta-Analysis of Diagnostic Studies by Means of (S)ROC-Modelling …*  
   [Abstract](abstracts/20090324_Boehning.pdf)
 
-*(File date mismatch: talk is 19. März, file is 20090324. But that’s the only one that fits.)*
-
 
 # 2008
 
@@ -923,37 +969,29 @@ Yes, so:)*
 ### 15. Mai 2008
 - **Achim Zeileis**  
   *A Lego System for Conditional Inference*  
-  [Abstract](abstracts/20080515_Zeileis.pdf)
-
-*(In the list, item [57] is `2008_15_Mai_Zeileis.pdf` => `20080515_Zeileis.pdf`.)*
+  [Abstract](abstracts/2008_15_Mai_Zeileis.pdf)
 
 ### 14. April 2008
 - **Andreas Futschik**  
   *Statistical Methods for Quantitative Trait Localization Based on Genome Data*  
-  [Abstract](abstracts/20080414_Futschik.pdf)
-
-*(In the list, item [56] is `2008_14_April_Futschik.pdf` => `20080414_Futschik.pdf`.)*
+  [Abstract](abstracts/2008_14_April_Futschik.pdf)
 
 ### 28. Jänner 2008
 - **Frank Bretz**  
   *Ordered Multiple Comparisons with the Best and Their Applications to Dose–Response Studies*  
-  [Abstract](abstracts/20080128_Bretz.pdf)
-
-*(In the list, item [59] is `2008_28_Jan_Bretz.pdf`; we rename to `20080128_Bretz.pdf` in abstracts/.)*
+  [Abstract](abstracts/2008_28_Jan_Bretz.pdf)
 
 ### 17. Jänner 2008
 - **Karl Moder**  
   *A new approach to evaluate interaction in block design*
 
-*(No 20080117_Moder? But item [58] is `2008_17_Jan_Moder.pdf`:)*  
-  [Abstract](abstracts/20080117_Moder.pdf)
+  [Abstract](abstracts/2008_17_Jan_Moder.pdf)
 
 ### 11. Jänner 2008
 - **Lara Lusa**  
   *Filtering Enhanced Feature Selection …*
 
-*(No 20080111_Lusa? But item [55] is `2008_11_Jan_Lusa.pdf`:)*  
-  [Abstract](abstracts/20080111_Lusa.pdf)
+  [Abstract](abstracts/2008_11_Jan_Lusa.pdf)
 
 
 # 2007
@@ -961,69 +999,51 @@ Yes, so:)*
 ### 6. Dezember 2007
 - **Bernhard Spangl**  
   *Estimating Spectral Density Functions Robustly*  
-  [Abstract](abstracts/20071206_Spangl.pdf)
-
-*(In your list, that’s item [48] `2007_06_Dez_Spangl.pdf`; rename to `20071206_Spangl.pdf`.)*
+  [Abstract](abstracts/2007_06_Dez_Spangl.pdf)
 
 ### 7. November 2007
 - **Willi Maurer**  
   *Sources of Multiplicty in Adaptive Designs*
-
-*(No 20071107_Maurer in the list, but item [49] is `2007_07_Nov_Maurer.pdf`:)*  
-  [Abstract](abstracts/20071107_Maurer.pdf)
+  [Abstract](abstracts/2007_07_Nov_Maurer.pdf)
 
 ### 18. Oktober 2007
 - **Rob Verdooren**  
   *Der Wilcoxon-Zweistichproben-Test für gruppierte Daten …*
 
-*(No direct PDF found, skipping.)*
-
 ### 11. Oktober 2007
 - **Bernhard Klingenberg**  
   *Testing dose-response with multivariate ordinal data*  
-  [Abstract](abstracts/20071011_Klingenberg.pdf)
-
-*(Item [50] is `2007_11_Oct_Klingenberg.pdf`; rename to `20071011_Klingenberg.pdf`.)*
+  [Abstract](abstracts/2007_11_Oct_Klingenberg.pdf)
 
 ### 16. Mai 2007
 - **Marc Vandemeulebroecke**  
   *A general approach to two-stage tests*  
-  [Abstract](abstracts/20070516_Vandemeulebroecke.pdf)
-
-*(Item [52] is `2007_16_May_Vandemeulebroecke.pdf`; rename to `20070516_Vandemeulebroecke.pdf`.)*
+  [Abstract](abstracts/2007_16_May_Vandemeulebroecke.pdf)
 
 ### 20. März 2007
 - **Gerhard Svolba**  
   *Data Preparation for Analytics*  
-  [Abstract](abstracts/20070320_Svolba.pdf)
-
-*(Item [53] is `2007_20_Maerz_Svolba.pdf`; rename to `20070320_Svolba.pdf`.)*
+  [Abstract](abstracts/2007_20_Maerz_Svolba.pdf)
 
 ### 13. Februar 2007
 - **Fátima Sánchez-Cabo**  
   *Statistical aspects and medical applications of “-omics” data integration*  
-  [Abstract](abstracts/20070213_Sanchez-Cabo.pdf)
-
-*(Item [51] is `2007_13_Feb_Sanchez-Cabo.pdf`; rename to `20070213_Sanchez-Cabo.pdf`.)*
+  [Abstract](abstracts/2007_13_Feb_Sanchez-Cabo.pdf)
 
 ### 23. Jänner 2007
 - **Nigel Stallard and Tim Friede**  
   *Two short talks*
-
-*(No single PDF found with “Stallard_Friede”? We do have item [54] `2007_23_Jan_Stallard_Friede.pdf`:)*  
-  [Abstract](abstracts/20070123_Stallard_Friede.pdf)
+  [Abstract](abstracts/2007_23_Jan_Stallard_Friede.pdf)
 
 ### 18. Jänner 2007
 - **Dieter Rasch**  
   *Wie viele Individuen benötigt man zur Schätzung populationsgenetischer Parameter?*
-
-*(In the list, item [35] is `2005_28feb_Rabczenko.pdf`— unrelated. For 2007_18_Jan_Rasch? Not found. Omit.)*
+  [Abstract](abstracts/H851_Vortrag_Rasch_070118.pdf)
 
 ### 16. Jänner 2007
 - **Dieter Rasch**  
   *Inwieweit sind statistische Verfahren anwendbar wenn Voraussetzungen …?*
-
-*(Likewise no match, omitting.)*
+  [Abstract](abstracts/H851_Vortrag_Rasch_070116.pdf)
 
 
 # 2006
@@ -1031,57 +1051,42 @@ Yes, so:)*
 ### 16. November 2006
 - **Maja Pohar**  
   *Regression in Relative Survival using R*  
-  [Abstract](abstracts/20061116_Pohar.pdf)
-
-*(Item [42] is `2006_16_Nov_Pohar.pdf`; rename to `20061116_Pohar.pdf`.)*
+  [Abstract](abstracts/2006_16_Nov_Pohar.pdf)
 
 ### 20. Oktober 2006
 - **David Kreil**  
   *RNA expression profiling with microarrays - Interplay of experiments and analysis*  
-  [Abstract](abstracts/20061020_Kreil.pdf)
-
-*(Item [43] is `2006_20_Okt_Kreil.pdf`; rename to `20061020_Kreil.pdf`.)*
+  [Abstract](abstracts/2006_20_Okt_Kreil.pdf)
 
 ### 13. Juni 2006
 - **Thomas Lang**  
-  *Arzneimittelzulassung in der EU …*
-
-*(No direct 20060613_Lang? But item [39] is `2006_13_Juni_Lang.pdf`:)*  
-  [Abstract](abstracts/20060613_Lang.pdf)
+  *Arzneimittelzulassung in der EU …*  
+  [Abstract](abstracts/2006_13_Juni_Lang.pdf)
 
 ### 27. März 2006
 - **Gernot Wassmer**  
   *On Estimation in Adaptive Survival Trials*  
-  [Abstract](abstracts/20060327_Wassmer.pdf)
-
-*(Item [45] is `2006_27_Maerz_Wassmer.pdf`; rename to `20060327_Wassmer.pdf`.)*
+  [Abstract](abstracts/2006_27_Maerz_Wassmer.pdf)
 
 ### 13. März 2006
 - **Frank Bretz**  
   *Combining Multiple Comparisons and Modeling Techniques in Dose Response Studies*  
-  [Abstract](abstracts/20060313_Bretz.pdf)
-
-*(Item [40] is `2006_13_Maerz_Bretz.pdf`; rename to `20060313_Bretz.pdf`.)*
+  [Abstract](abstracts/2006_13_Maerz_Bretz.pdf)
 
 ### 6. März 2006
 - **Siegfried Hörmann**  
-  *Modellierung und Prognose der Feinstaubkonzentration in Graz*
-
-*(No 20060306_Hoermann? We do have [46] `2006_9_Maerz_Hoermann.pdf`— different date. Skipping.)*
+  *Modellierung und Prognose der Feinstaubkonzentration in Graz*  
+  [Abstract](abstracts/2006_9_Maerz_Hoermann.pdf)
 
 ### 23. Februar 2006
 - **Stefan Michiels**  
   *Issues in the prediction of cancer outcome with microarrays*  
-  [Abstract](abstracts/20060223_Michiels.pdf)
-
-*(Item [44] is `2006_23_Feb_Michiels.pdf`; rename to `20060223_Michiels.pdf`.)*
+  [Abstract](abstracts/2006_23_Feb_Michiels.pdf)
 
 ### 16. Januar 2006
 - **Arndt Peter von Haeseler**  
   *Stochastic Models of Sequence Evolution*  
-  [Abstract](abstracts/20060116_vonHaeseler.pdf)
-
-*(Item [41] is `2006_16_Jan_vonHaeseler.pdf`; rename to `20060116_vonHaeseler.pdf`.)*
+  [Abstract](abstracts/2006_16_Jan_vonHaeseler.pdf)
 
 
 # 2005
@@ -1089,58 +1094,42 @@ Yes, so:)*
 ### 10. November 2005
 - **Daniele De Martini**  
   *Estimating Sample Size and Reproducibility for Nonparametric Statistical Tests*  
-  [Abstract](abstracts/20051110_DeMartini.pdf)
-
-*(Item [31] is `2005_10_Nov_DeMartini.pdf`; rename to `20051110_DeMartini.pdf`.)*
+  [Abstract](abstracts/2005_10_Nov_DeMartini.pdf)
 
 ### 27. Oktober 2005
 - **Franz König**  
   *Zwischenergebnisse, Flexibilität und Ineffizienz*  
-  [Abstract](abstracts/20051027_Koenig.pdf)
-
-*(Item [34] is `2005_27_Okt_Koenig.pdf`; rename to `20051027_Koenig.pdf`.)*
+  [Abstract](abstracts/2005_27_Okt_Koenig.pdf)
 
 ### 29. Juli 2005
 - **Carina Ittrich**  
   *Penalized Maximum Likelihood Regression*  
-  [Abstract](abstracts/20050729_Ittrich.pdf)
-
-*(Item [36] is `2005_29_Juli_Ittrich.pdf`; rename.)*
+  [Abstract](abstracts/2005_29_Juli_Ittrich.pdf)
 
 ### 16. Juni 2005
 - **Gregor Laaha**  
   *Regionalisierung von Niederwasserkennwerten …*  
-  [Abstract](abstracts/20050616_Laaha.pdf)
-
-*(Item [32] is `2005_16_Juni_Laaha.pdf`; rename.)*
+  [Abstract](abstracts/2005_16_Juni_Laaha.pdf)
 
 ### 9. Juni 2005
 - **Yasemin Genç**  
   *Closed Form Methods to Compare Two Proportions for Clustered Data*  
-  [Abstract](abstracts/20050609_Genc.pdf)
-
-*(Item [38] is `2005_9_Juni_Genc.pdf`; rename.)*
+  [Abstract](abstracts/2005_9_Juni_Genc.pdf)
 
 ### 3. Mai 2005
 - **Margit Ehrenmüller und Johannes Dobretsberger**  
-  *Analysieren und planen von med. Studien …*
-
-*(No direct 20050503_Ehrenmueller? We do have [37] `2005_3_Mai_Ehrenmueller.pdf`:)*  
-  [Abstract](abstracts/20050503_Ehrenmueller.pdf)
+  *Analysieren und planen von med. Studien …*  
+  [Abstract](abstracts/2005_3_Mai_Ehrenmueller.pdf)
 
 ### 27. April 2005
 - **Bernhard Spangl**  
   *On Robust Spectral Density Estimation …*  
-  [Abstract](abstracts/20050427_Spangl.pdf)
-
-*(Item [33] is `2005_27_April_Spangl.pdf`; rename.)*
+  [Abstract](abstracts/2005_27_April_Spangl.pdf)
 
 ### 28. Februar 2005
 - **Daniel Rabczenko**  
-  *Estimation of short-term effect of air pollution … four Polish cities*  
-  [Abstract](abstracts/20050228_Rabczenko.pdf)
-
-*(Item [35] is `2005_28feb_Rabczenko.pdf`; rename.)*
+  *Estimation of short-term effect of air pollution …*  
+  [Abstract](abstracts/2005_28feb_Rabczenko.pdf)
 
 
 # 2004
@@ -1148,92 +1137,67 @@ Yes, so:)*
 ### 15. Dezember 2004
 - **Richard Petritsch**  
   *Anwendung und Validierung des Klimainterpolationsmodells DAYMET in Österreich*  
-  [Abstract](abstracts/20041215_Petritsch.pdf)
-
-*(Item [26] is `2004_15_Dez_Petritsch.pdf`; rename.)*
+  [Abstract](abstracts/2004_15_Dez_Petritsch.pdf)
 
 ### 11. November 2004
 - **Malinee Laopaiboon**  
   *Meta-analyses involving cluster randomization trials …*  
-  [Abstract](abstracts/20041111_Laop.pdf)
-
-*(Item [24] is `2004_11_Nov_Laop.pdf`; rename.)*
+  [Abstract](abstracts/2004_11_Nov_Laop.pdf)
 
 ### 14. Oktober 2004
 - **Friedrich Leisch**  
   *R: Freie Software für Statistische Datenanalyse und Graphik*  
-  [Abstract](abstracts/20041014_Leisch.pdf)
-
-*(Item [25] is `2004_14_Okt_Leisch.pdf`; rename.)*
+  [Abstract](abstracts/2004_14_Okt_Leisch.pdf)
 
 ### 21. Juni 2004
 - **William F. Rosenberger**  
   *Maximizing Power and Minimizing Treatment Failures in Clinical Trials*  
-  [Abstract](abstracts/20040621_Rosenberger.pdf)
-
-*(Item [27] is `2004_21_Juni_Rosenberger.pdf`; rename.)*
+  [Abstract](abstracts/2004_21_Juni_Rosenberger.pdf)
 
 ### 26. Mai 2004
-- **Bernhard Klingenberg**  
+- **Barbara Kavsek**  
   *PLS (Partial Least Squares) Regression und ihre Anwendungen*  
-  [Abstract](abstracts/20040526_Klingenberg.pdf)
-
-*(Item [29] is `2004_26_Mai_Kavsek.pdf` – that’s a mismatch. Possibly you meant [22], or  “Klingenberg”? Actually we find [139] is 20141029. The 2004 reference for Klingenberg is [28]? That’s `2004_24_Feb_EhrenMueller.pdf`, not right.  
-We do not see a “2004_26_Mai_Klingenberg.” We have no direct match. Omit or rename carefully if certain.*)
-
-*(**No exact match found** → omitted.)*
+  [Abstract](abstracts/2004_26_Mai_Kavsek.pdf)
 
 ### 29. April 2004
 - **K.-D. Wernecke**  
   *A Mixed Model Approach to Discriminant Analysis with Longitudinal Data*  
-  [Abstract](abstracts/20040429_Wernecke.pdf)
-
-*(Item [30] is `2004_29_April_Wernecke.pdf`; rename.)*
+  [Abstract](abstracts/2004_29_April_Wernecke.pdf)
 
 ### 24. Februar 2004
 - **Margit Ehrenmüller**  
   *SAS Enterprise Guide : Statistische Auswertungen für Nichtstatistiker …*  
-  [Abstract](abstracts/20040224_EhrenMueller.pdf)
-
-*(Item [28] is `2004_24_Feb_EhrenMueller.pdf`; rename.)*
+  [Abstract](abstracts/2004_24_Feb_EhrenMueller.pdf)
 
 
 # 2003
 
 ### 6. Oktober 2003
 - **Tze Leung Lai**  
-  *Power, sample size and adaptation considerations in the design of group sequential trials.*
-
-*(No 20031006_Lai? We do have `2003_6_Okt_Lai.pdf` as item [23], rename to `20031006_Lai.pdf`:)*  
-  [Abstract](abstracts/20031006_Lai.pdf)
+  *Power, sample size and adaptation considerations …*  
+  [Abstract](abstracts/2003_6_Okt_Lai.pdf)
 
 ### 11. April 2003
 - **John Nelder**  
   *Extended likelihood inference applied to a new class of models.*  
-  [Abstract](abstracts/20030411_Nelder.pdf)
-
-*(Item [20] is `2003_11_April_Nelder.pdf`; rename.)*
+  [Abstract](abstracts/2003_11_April_Nelder.pdf)
 
 ### 1. April 2003
 - **Kurt Hornik**  
   *Neurale Netze und Biostatistik*  
-  [Abstract](abstracts/20030401_Hornik.pdf)
-
-*(Item [19] is `2003_1_April_Hornik.pdf`; rename.)*
+  [Abstract](abstracts/2003_1_April_Hornik.pdf)
+  
+  [Slides](abstracts/Hornik_nnbio.pdf)
 
 ### 23. Jänner 2003
 - **Albrecht Neiß**  
-  *Biometrisches Zentrum für Multiple Sklerose-Forschung.*
-
-*(No 20030123_Neiss? We have item [22] is `2003_23_Jan_Neiss.pdf`; rename.*)  
-  [Abstract](abstracts/20030123_Neiss.pdf)
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung.*  
+  [Abstract](abstracts/2003_23_Jan_Neiss.pdf)
 
 ### 20. Jänner 2003
 - **Anette Kopp-Schneider (Heidelberg)**  
   *Stochastische Modelle für die Hepatokarzinogenese.*  
-  [Abstract](abstracts/20030120_KoppSchneider.pdf)
-
-*(Item [21] is `2003_20_Jan_KoppSchneider.pdf`; rename.)*
+  [Abstract](abstracts/2003_20_Jan_KoppSchneider.pdf)
 
 
 # 2002
@@ -1241,106 +1205,78 @@ We do not see a “2004_26_Mai_Klingenberg.” We have no direct match. Omit or 
 ### 11. Dezember 2002
 - **Marcus Hudec (Wien)**  
   *Datamining.*  
-  [Abstract](abstracts/20021211_Hudec.pdf)
-
-*(Item [11] is `2002_11_Dez_Hudec.pdf`; rename.)*
+  [Abstract](abstracts/2002_11_Dez_Hudec.pdf)
 
 ### 27. November 2002
 - **Sharon Kühlmann (Göteborg)**  
   *A matched case-control study in the forest: influence of trees on understory vegetation.*  
-  [Abstract](abstracts/20021127_Kuehlmann.pdf)
-
-*(Item [17] is `2002_27_Nov_Kuehlmann.pdf`; rename.)*
+  [Abstract](abstracts/2002_27_Nov_Kuehlmann.pdf)
 
 ### 27. September 2002
 - **Albrecht Neiß (München)**  
-  *Biometrisches Zentrum für Multiple Sklerose-Forschung*
-
-*(We have 2002_27_Sept_Neiss.pdf? Item [18]? Sure, rename to `20020927_Neiss.pdf`:)*  
-  [Abstract](abstracts/20020927_Neiss.pdf)
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung*  
+  [Abstract](abstracts/2002_27_Sept_Neiss.pdf)
 
 ### 12. Juni 2002
 - **Alexander Ploner**  
   *Modellieren von Besucherzahlen mit Regressionsbäumen*  
-  [Abstract](abstracts/20020612_Ploner.pdf)
-
-*(Item [13] is `2002_12_Juni_Ploner.pdf`; rename.)*
+  [Abstract](abstracts/2002_12_Juni_Ploner.pdf)
 
 ### 22. Mai 2002
 - **Werner G. Müller**  
   *Residualdiagnostik für Variogrammschätzung*  
-  [Abstract](abstracts/20020522_Mueller.pdf)
-
-*(Item [15] is `2002_22_Mai_Mueller.pdf`; rename.)*
+  [Abstract](abstracts/2002_22_Mai_Mueller.pdf)
 
 ### 24. Jänner 2002
 - **Patrick Royston**  
   *Flexible parametric models for censored survival data …*  
-  [Abstract](abstracts/20020124_Royston.pdf)
-
-*(Item [16] is `2002_24_Jan_Royston.pdf`; rename.)*
+  [Abstract](abstracts/2002_24_Jan_Royston.pdf)
 
 ### 16. Jänner 2002
 - **Christine Mannhalter**  
-  *Durchführung und Einsatzgebiete von Gen-Chip Analysen (Microarrays)*
-
-*(Item [14] is `2002_16_Jan_Mannhalter.pdf`; rename => `20020116_Mannhalter.pdf`:)*  
-  [Abstract](abstracts/20020116_Mannhalter.pdf)
+  *Durchführung und Einsatzgebiete von Gen-Chip Analysen (Microarrays)*  
+  [Abstract](abstracts/2002_16_Jan_Mannhalter.pdf)
 
 ### 11. Jänner 2002
 - **David Firth**  
   *Maximum likelihood estimates: bias, finiteness, shrinkage*  
-  [Abstract](abstracts/20020111_Firth.pdf)
-
-*(Item [12] is `2002_11_Jan_Firth.pdf`; rename.)*
+  [Abstract](abstracts/2002_11_Jan_Firth.pdf)
 
 
 # 2001
 
 ### 13. Juni 2001
 - **Thomas Waldhör**  
-  *Aus der räumlichen Epidemiologie*
-
-*(We have item [9] is `2001_13_Juni_Waldhoer.pdf`; rename => `20010613_Waldhoer.pdf`:)*  
-  [Abstract](abstracts/20010613_Waldhoer.pdf)
+  *Aus der räumlichen Epidemiologie*  
+  [Abstract](abstracts/2001_13_Juni_Waldhoer.pdf)
 
 ### 31. Jänner 2001
 - **Christine Mannhalter**  
-  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*
-
-*(Item [10] is `2001_31_Jan_Mannhalter.pdf`; rename => `20010131_Mannhalter.pdf`:)*  
-  [Abstract](abstracts/20010131_Mannhalter.pdf)
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*  
+  [Abstract](abstracts/2001_31_Jan_Mannhalter.pdf)
 
 
 # 2000
 
 ### 8. November 2000
 - **Alessandra Nardi (University of Teramo and University of Vienna)**  
-  *On residuals analysis for survival data*
-
-*(Item [8] is `2000_8_Nov_Nardi.pdf`; rename => `20001108_Nardi.pdf`:)*  
-  [Abstract](abstracts/20001108_Nardi.pdf)
+  *On residuals analysis for survival data*  
+  [Abstract](abstracts/2000_8_Nov_Nardi.pdf)
 
 ### 11. Oktober 2000
 - **Christine Mannhalter**  
-  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*
-
-*(Item [5] is `2000_11_Okt_Mannhalter.pdf`; rename => `20001011_Mannhalter.pdf`:)*  
-  [Abstract](abstracts/20001011_Mannhalter.pdf)
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*  
+  [Abstract](abstracts/2000_11_Okt_Mannhalter.pdf)
 
 ### 6. März 2000
 - **Werner Brannath**  
   *Monotone Confidence Bounds in Adaptive Two Stage Combination Tests*  
-  [Abstract](abstracts/20000306_Brannath.pdf)
-
-*(Item [7] is `2000_6_Maerz_Brannath.pdf`; rename.*)
+  [Abstract](abstracts/2000_6_Maerz_Brannath.pdf)
 
 ### 25. Jänner 2000
 - **Hubert Hasenauer**  
   *Die simultanen Eigenschaften von Waldwachstumsmodellen*  
-  [Abstract](abstracts/20000125_Hasenauer.pdf)
-
-*(Item [6] is `2000_25_Jan_Hasenauer.pdf`; rename.)*
+  [Abstract](abstracts/2000_25_Jan_Hasenauer.pdf)
 
 
 # 1999
@@ -1348,32 +1284,25 @@ We do not see a “2004_26_Mai_Klingenberg.” We have no direct match. Omit or 
 ### 13. Dezember 1999
 - **Erika Graf**  
   *Schätzung des Vorhersagefehlers in der Überlebenszeitanalyse*  
-  [Abstract](abstracts/19991213_Graf.pdf)
-
-*(Item [1] is `1999_13_Dez_Graf.pdf`; rename.)*
+  [Abstract](abstracts/1999_13_Dez_Graf.pdf)
 
 ### 23. November 1999
 - **Helmut Finner**  
   *Stichprobenumfangsbestimmungen für Mehrentscheidungsverfahren …*  
-  [Abstract](abstracts/19991123_Finner.pdf)
-
-*(Item [3] is `1999_23_Nov_Finner.pdf`; rename.)*
+  [Abstract](abstracts/1999_23_Nov_Finner.pdf)
 
 ### 4. Mai 1999
 - **John Whitehead**  
   1. *Sequential designs for comparative clinical trials*  
   2. *Sequential trials with more than two treatments or more than one endpoint*
 
-[Abstract](abstracts/19990504_Whitehead.pdf)
-
-*(Item [4] is `1999_4_Mai_Whitehead.pdf`; rename.)*
+[Abstract](abstracts/1999_4_Mai_Whitehead.pdf)
 
 ### 15. April 1999
 - **Fulvio De Santis**  
   *Recent Issues in Bayesian Model Selection*  
-  [Abstract](abstracts/19990415_DeSantis.pdf)
+  [Abstract](abstracts/1999_15_April_DeSantis.pdf)
 
-*(Item [2] is `1999_15_April_DeSantis.pdf`; rename.)*
 
 
 
